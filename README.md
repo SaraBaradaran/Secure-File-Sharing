@@ -1,2 +1,3 @@
 
-<div style="dir:rtl">  منم &lrm; temp &lrm; من هستم </div>
+<div style="dir:rtl"> اهای &lrm; temp &lrm; منم </div>
+ منم
