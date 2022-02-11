@@ -7,6 +7,5 @@
 
 </div>
  
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
 
-f(n) 	$\in$ O(g(n)) implies g(n) $\in$ O(f(n))
+f(n) 	\in O(g(n)) implies g(n) $\in$ O(f(n))
