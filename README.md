@@ -1,2 +1,2 @@
 
-<div style="dir:ltr">  dkljd &rlm; بله من هتم &rlm; alskd </div>
+<div style="dir:ltr">  منم &lrm; temp &lrm; من هستم </div>
