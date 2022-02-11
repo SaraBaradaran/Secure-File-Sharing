@@ -1,3 +1,3 @@
 # Secure-File-Sharing
 
-<div> یک دو سه </div>
+<div style="dir:rtl"> یک دو سه </div>
