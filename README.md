@@ -22,6 +22,6 @@ git clone https://github.com/SaraBaradaran/Secure-File-Sharing
   - Run `Database_View_Trigger_Function.sql` File
 
 ### Step 5: Run Server & Client
-  - Run `Server.ipynb` File
+  - Run `_Server.ipynb` File
 
-  - Run `Client.ipynb` File
+  - Run `_Client.ipynb` File
