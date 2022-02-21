@@ -1,5 +1,7 @@
 # Secure-File-Sharing
 
+We have implemented a secure file sharing thta provide confidentiality and integrity. 
+
 ## Usage guide
 
 ### Requirements
